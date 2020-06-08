@@ -1,3 +1,6 @@
+NOTE 1 of 2: This repo is used to enable marketing attribution tracking for iAds in the mobile app.  It should not be changed before consulting with a member of the mobile team.
+
+NOTE 2 of 2: We can move away from using this repo once this PR is merged: https://github.com/kenmaca/react-native-apple-ads-attribution/pull/2
 
 # Apple Search Ads Attribution API for React Native.
 
