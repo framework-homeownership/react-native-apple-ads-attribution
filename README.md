@@ -1,5 +1,5 @@
 
-# Apple Search Ads Attribution API for React Native
+# Apple Search Ads Attribution API for React Native.
 
 ## Requirements
 - iAd Framework
